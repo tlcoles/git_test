@@ -1,1 +1,1 @@
-This is Tammi't first git project!
+This is Tammi's first git project!
